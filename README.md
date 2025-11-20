@@ -2,7 +2,7 @@
 
 **Multi-AI Collaborative Framework for Uncertainty-Calibrated Intelligence**
 
-[![ArXiv](https://img.shields.io/badge/arXiv-pending-b31b1b.svg)](https://arxiv.org)
+https://doi.org/10.5281/zenodo.17657758
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
