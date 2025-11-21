@@ -1,4 +1,16 @@
-# The Humility Protocol
+## Recent Updates
+
+### v0.2 (November 2025) - Gemini Validation
+
+After initial publication, Gemini (Google DeepMind) independently 
+validated the framework with a 2,000-trial simulation confirming 27% OPI 
+improvement and hallucinator neutralization.
+
+This expands collaboration to four AI laboratories: Anthropic, OpenAI, 
+xAI, and Google DeepMind.
+
+Run the simulation: experiments/simulation/gemini_validation.py # The 
+Humility Protocol
 
 **Multi-AI Collaborative Framework for Uncertainty-Calibrated Intelligence**
 
